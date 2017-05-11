@@ -1,0 +1,2 @@
+# AndroidBasicKnowledge
+本仓库主要总结Android应用开发中的一些基础知识
